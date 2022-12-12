@@ -10,6 +10,7 @@ body{
     min-height:100vh ;
     background-image:linear-gradient(125deg,#191a18,#378445) ;
     background: url(https://media.giphy.com/media/37nUOlOoYC5FPwthz6/giphy.gif ) center/cover ;
+    opacity: 0.8;
 }
 
 .container{
